@@ -47,7 +47,7 @@ The App may integrate with third-party services, such as payment gateways or ana
 8. Changes to This Privacy Policy
 We may update this Privacy Policy to reflect changes in our practices or legal requirements. We will notify you of significant changes via the App or email. The updated policy will be effective upon posting.
 Contact Us
-If you have questions or concerns about this Privacy Policy or our data practices, please contact us at:Email: haircutease@gmail.comAddress: A 9 Rajdeep Apartment India Colony Road, Ahmedabad, Gujarat, India
+If you have questions or concerns about this Privacy Policy or our data practices, please contact us at:Email: haircutease@gmail.com Address: A 9 Rajdeep Apartment India Colony Road, Ahmedabad, Gujarat, India
 
 Terms and Conditions for Haircutease
 Last Updated: June 5, 2025
