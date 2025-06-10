@@ -58,7 +58,7 @@ HairCutEase is a platform that enables users to book salon and barbershop appoin
 To use certain features of the App, you must create an account and provide accurate, complete, and up-to-date information, including your name, email address, and payment details. You agree to:
 
 Use the App for lawful purposes and in compliance with these Terms.
-Maintain the confidentiality of your account credentials and notify us immediately at support@haircutease.com of any unauthorized use.
+Maintain the confidentiality of your account credentials and notify us immediately at haircutease@gmail.com of any unauthorized use.
 Not share your account with others or allow others to access your account.
 Not engage in activities that disrupt the App, including attempting unauthorized access to our systems.
 
