@@ -95,5 +95,5 @@ We may suspend or terminate your access to the App without notice if you breach 
 8. Governing Law and Dispute Resolution
 These Terms are governed by the laws of the State of Delaware, without regard to its conflict of law provisions. Any disputes arising from these Terms or your use of the App shall be resolved through negotiation or, if necessary, in the state or federal courts located in Wilmington, Delaware, which shall have exclusive jurisdiction.
 9. Contact Us
-For questions, concerns, or feedback about these Terms or the App, please contact us at:Email: support@haircutease.comAddress: A 9 Rajdeep Apartment India Colony Road, Ahmedabad, Gujarat, India
+For questions, concerns, or feedback about these Terms or the App, please contact us at:Email:haircutease@gmail.com Address: A 9 Rajdeep Apartment India Colony Road, Ahmedabad, Gujarat, India
 We aim to respond to all inquiries within 48 hours.
